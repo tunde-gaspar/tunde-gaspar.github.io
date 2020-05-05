@@ -67,7 +67,7 @@ section{
 .top{
   line-height: 1.7;
   font-size: 13px;
-  margin-top: 0px;}
+  margin-top: 7px;}
 
 ul{list-style-type: square;}
 
@@ -129,10 +129,20 @@ hr{
   background-color: lightgray;
   color: black;}
   
- .navigation-bar a.active{
+.navigation-bar a.active{
    background-color: #85ab7d;
    color: white;}
 
 #bio, #achievements, #experience, #training{
   position:relative; 
   top:-90px;}
+
+.back-link{
+  background: lightgrey;
+  color: white;
+  padding: 3px;
+  }
+
+.back-link:hover{
+  color: black;
+}

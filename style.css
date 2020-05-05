@@ -74,3 +74,13 @@ h5{
 hr{
   border: 2px solid black;
   margin-top: 40px;}
+
+  .version2-link{
+    background: lightgrey;
+    color: white;
+    padding: 3px;
+    }
+  
+  .version2-link:hover{
+    color: black;
+  }
