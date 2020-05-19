@@ -1,0 +1,27 @@
+html{
+  width: 300px;
+  text-align: center;
+}
+h1{
+  background: red;
+}
+
+h2{
+  background:orange;
+}
+
+h3{
+  background: yellow;
+}
+
+h4{
+  background: green;
+  }
+
+h5{
+  background: lightblue;
+}
+
+h6{
+  background: lightcyan;
+}

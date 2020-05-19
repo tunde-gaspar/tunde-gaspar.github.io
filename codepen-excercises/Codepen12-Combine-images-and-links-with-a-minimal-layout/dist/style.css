@@ -1,0 +1,33 @@
+main{
+  width: 500px;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  color: #54C0CF;
+  text-align: center;
+}
+
+div{
+  display:flex;
+  justify-content: center;
+}
+
+section{
+  width:220px;
+  text-align:center;
+}
+
+a{
+  font-family: 'Montserrat', sans-serif;
+  color: #0D7B8A;
+  text-decoration:none;
+}
+
+img{
+  width: 200px;
+  margin: 10px;
+}
+
+img:hover{
+  cursor: pointer;
+}

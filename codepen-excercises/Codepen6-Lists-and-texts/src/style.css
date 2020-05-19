@@ -1,0 +1,19 @@
+html{font-family: 'Baloo Thambi 2', cursive;}
+
+h1{color: #DA5C19;}
+
+h2, h3{color:#762CB4;}
+
+p{color: #514D54;}
+
+ul{
+  color: #514D54;
+  font-family: 'Baloo Thambi 2', cursive;
+  font-size: 15px;
+  font-weight: normal;
+}
+
+.purple{
+    color: #762CB4;
+    text-decoration: underline;
+}

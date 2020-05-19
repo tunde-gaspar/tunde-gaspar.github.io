@@ -1,0 +1,15 @@
+a{
+  display: block;
+  margin: 10px;
+  font-family: 'Sen', sans-serif;
+  color: darkgreen;
+}
+
+a:hover{
+  color: lime;
+  text-decoration: none;
+}
+
+a:active{
+  color: red;
+}

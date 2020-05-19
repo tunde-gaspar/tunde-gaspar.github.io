@@ -1,0 +1,10 @@
+img{
+  width: 300px;
+  margin: 10px;
+}
+
+img:hover{
+  width: 400px;
+  margin: 0px;
+  cursor: pointer;
+}

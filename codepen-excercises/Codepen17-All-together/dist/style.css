@@ -1,0 +1,56 @@
+main{
+  width: 600px;
+  margin: 0 auto;
+}
+
+h1, footer{
+  background: aqua;
+  height: 70px;
+  margin: 0px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+div{
+  font-family: 'Montserrat', sans-serif;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+}
+
+.left{
+  background: #F99944;
+  flex-grow: 1;
+}
+
+.mainContent{
+  background: #F5635A;
+  margin: 0px 20px;
+  flex-grow: 6;
+  position: relative;
+}
+
+.right{
+  background: #DD97F7;
+  flex-grow: 1;
+}
+
+footer{
+  background: lightgray;
+}
+
+.question-button{
+  background: black;
+  color: lightgray;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
