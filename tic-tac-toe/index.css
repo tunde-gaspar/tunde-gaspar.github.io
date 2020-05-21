@@ -4,7 +4,7 @@ body {
   }
   
   ol, ul {
-    padding-left: 30px;
+    padding-left: 40px;
   }
   
   .board-row:after {
@@ -46,6 +46,18 @@ body {
   }
   
   .game-info {
-    margin-left: 20px;
+    margin-left: 0px;
+  }
+  
+  .game-info div{
+    color:lightseagreen;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 35px;
+  }
+
+  button{
+    width: 150px;
   }
   
