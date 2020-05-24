@@ -1,17 +1,20 @@
 body{
   width: 1000px;
-  margin: 0 auto;}
+  margin: 0 auto;
+}
 
 header{
   height: 280px;
   position: relative;
-  background: no-repeat center/100% url("http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png");}
+  background: no-repeat center/100% url("http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png");
+}
 
 h1, h2{
   font-family: 'Abril Fatface', cursive;
   color: #222;
   font-weight: normal;
-  margin: -15px;}
+  margin: -15px;
+}
 
 h1{font-size: 55px;}
 h2{font-size: 28px;}
@@ -19,11 +22,13 @@ h2{font-size: 28px;}
 .header-text{
   position: absolute;
   top: 190px;
-  left: 245px;}
+  left: 245px;
+}
 
 main{
   width: 560px;
-  margin: 0 auto;}
+  margin: 0 auto;
+}
 
 section{
   font-family: 'Josefin Sans', sans-serif;
@@ -31,13 +36,18 @@ section{
   color: #222;
   text-align: left;
   line-height: 1.5;
-  margin-top: 40px;}
+  margin-top: 40px;
+}
 
 .top{
   line-height: 1.7;
-  font-size: 14px}
+  font-size: 14px
+}
 
-ul{list-style-type: square;}
+ul{
+  list-style-type: square;
+}
+
 
 blockquote{
   background: #46484a;
@@ -45,7 +55,7 @@ blockquote{
   font-size: 33px;
   color: white;
   padding: 35px 15px;
-  margin: 0px;
+  margin: 0;
   text-align: center;
   position: relative;}
 
@@ -54,32 +64,50 @@ blockquote::before{
   font-size: 90px;
   position: absolute;
   top: -25px;
-  left: 0px;}
+  left: 0;
+}
 
 h3{
   text-transform: uppercase;
   font-size: 18px;
   letter-spacing: 0.5px;
-  margin: 35px 0px;}
+  margin: 35px 0;
+}
 
 h4{
   font-size: 18px;
-  margin-bottom: 0px;}
+  margin-bottom: 0;
+}
 
 h5{
   font-family: 'Merriweather', serif;
   font-size: 12px;
-  margin-top: -3px}
+  margin-top: -3px
+}
 
 hr{
   border: 2px solid black;
-  margin-top: 40px;}
+  margin-top: 40px;
+}
+
+.links-box{
+  border: 2px solid lightgrey;
+  border-radius: 8px;
+  padding: 8px;
+}
+
+.links-box p{
+  font-size: 15px;
+  margin: 5px;
+}
 
 .link{
     background: lightsteelblue;
     color: white;
-    font-size: 15px;
+    font-size: 14px;
     padding: 3px;
+    margin-left: 25px;
+    text-decoration: none;
     }
   
 .tic-tac-toe{

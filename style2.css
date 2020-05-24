@@ -141,6 +141,8 @@ hr{
   background: lightgrey;
   color: white;
   padding: 3px;
+  border-radius: 2px;
+  text-decoration: none;
   }
 
 .back-link:hover{
