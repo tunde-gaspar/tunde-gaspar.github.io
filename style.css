@@ -6,7 +6,7 @@ body{
 header{
   height: 280px;
   position: relative;
-  background: no-repeat center/100% url("http://stayathome-syllabus.greenfox.academy/week01/assets/first-website-header.png");
+  background: no-repeat center/100% url("images/first-website-header.png");
 }
 
 h1, h2{
